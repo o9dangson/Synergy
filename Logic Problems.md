@@ -79,6 +79,17 @@ Can you figure out which house is Charlie’s?
 
 <br>
 
+Elena
+St St St St St St St St St
+Benita  Greta  Daniel
+St St St St St St St St St
+Hal     Charlie Adam
+St St St St St St St St St
+
+St st st st st st st st st
+Franco
+
+
 ## Hard
 
 ---
