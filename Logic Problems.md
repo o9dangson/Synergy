@@ -34,7 +34,7 @@ Each of five neighborhood dogs (Saber, Ginger, Nutmeg, Pepper, and Bear) is enjo
 - Bear is getting some exercise.
 
 Can you figure out what each dog is doing?
-# Saber (taking a nap), Ginger (ears scratched), Nutmet (going for walk), Pepper (burying a chew toy), Bear (playing catch)
+Ans: Saber (taking a nap), Ginger (ears scratched), Nutmet (going for walk), Pepper (burying a chew toy), Bear (playing catch)
 
 <br>
 
