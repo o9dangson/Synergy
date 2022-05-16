@@ -19,6 +19,8 @@ Abigail, Oliver, Rosa, and Blake all attend the same summer camp, where they can
 
 Can you figure out who likes what?
 
+Blake likes to cook, Oliver likes to kayak, Abigail likes to zip-line, and Rosa likes to rock climb.
+
 <br>
 
 ### 2. The Good Life
