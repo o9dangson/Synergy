@@ -35,8 +35,6 @@ Each of five neighborhood dogs (Saber, Ginger, Nutmeg, Pepper, and Bear) is enjo
 
 Can you figure out what each dog is doing?
 
-Ans: Saber (taking a nap), Ginger (ears scratched), Nutmet (going for walk), Pepper (burying a chew toy), Bear (playing catch)
-
 <br>
 
 ### 3. The Long and the Short of It
@@ -97,6 +95,8 @@ A. This is salt     B. This is salt     C. This is sugar        D. The salt in n
 It's April fool's day and your roommate has replaced the salt in three of your four salt shakers with sugar and left a message on each.
 If only one of these inscriptions is true, which shaker still contains salt?
 
+C contains salt.
+
 <br>
 
 ### 2. New Parents
@@ -108,3 +108,5 @@ Ruby and Lewis are expecting…triplets! They already know what they will name t
 - Their names include both of their parents’ initials, but none of the other letters in their parents’ first names.
 
 What will Ruby and Lewis name their triplets?
+
+Ronald, Arnold, Roland
