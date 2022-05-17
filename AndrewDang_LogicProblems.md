@@ -67,6 +67,8 @@ A joint Father’s Day and graduation party is being thrown for Michael, Ken, Ja
 
 Can you match the high school graduates to their fathers at this joint celebration?
 
+James is Michael's son, Elias is Alberto's son, Stephanie is Ken's daughter.
+
 <br>
 
 ### 2. Party at Charlie's
