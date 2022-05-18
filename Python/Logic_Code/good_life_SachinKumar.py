@@ -10,23 +10,25 @@
 # A dog not named for a spice is playing catch.
 # Bear is getting some exercise.
 
+#writing all the dog names
 dog0 = 'Saber'
 dog1 = 'Ginger'
 dog2 = 'Nutmeg'
 dog3 = 'Pepper'
 dog4 = 'Bear'
 
-dogs=[dog0,dog1,dog2,dog3,dog4]
+dogs=[dog0,dog1,dog2,dog3,dog4] #added dog names to an array
 
-activity0 = 'ear scratched'
+#Write down all the activities
+activity0 = 'getting its ear scratched'
 activity1 = 'playing catch'
 activity2 = 'taking a nap'
 activity3 = 'burying a chew toy'
 activity4 = 'going for a walk'
 
-activities=[activity0,activity1,activity2,activity3,activity4]
+activities=[activity0,activity1,activity2,activity3,activity4] #activities in one array
 
-#dogs=[True, True,True,True,True]
+#adding all the possible combinations in a truth table
 #dog    ear,catch,nap,chwew,walk
 test0= [True,True,True,False,False]
 test1= [True,False,False,False,False]#
@@ -36,6 +38,7 @@ test4= [False,True,False,False,False]#
 
 testcase= [test0,test1,test2,test3,test4]
 
+#eliminate the duplicate activities Pass1
 counter = 0
 location = 0
 for i in range(5):
@@ -50,7 +53,7 @@ for i in range(5):
     location=0
     counter=0
 
-
+#eliminate the duplicate activities Pass2
 for i in range(5):
     for j in range(5):
         if(testcase[i][j]==True):
@@ -64,10 +67,11 @@ for i in range(5):
     counter=0
 
 
+#Printing all the dog names with activities
 for i in range(5):
     for j in range(5):
         if(testcase[i][j]):
-            print(dogs[i],activities[j]+" ")
+            print(dogs[i],"is "+activities[j]+" ")
 
 print("end")
 
